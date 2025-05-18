@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi there :)
+
+My name is Nathan Pereira (aka vantascure). I'm an aspiring penetration tester/red teamer. I play CTFs occasionally and crack machines on Hack The Box for fun.
+
+I hold the following certifications:
+
+- OffSec Certified Professional (OSCP+, OSCP)
+- Hack The Box Certified Penetration Testing Specialist
+- Certified Ethical Hacker (CEH)
+- CompTIA Security+
+- Microsoft AZ-900
